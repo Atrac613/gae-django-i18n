@@ -3,6 +3,13 @@ GAE Django I18N Sample Code
 
 django version: 0.96
 
+If mac user
+------
+
+$ sudo easy_install django
+
+$ sudo port install gettest
+
 Localization
 -------
 
