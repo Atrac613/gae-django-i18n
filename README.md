@@ -1,7 +1,7 @@
 GAE Django I18N Sample Code
 =============
 
-django: 0.96
+django version: 0.96
 
 Localization
 -------
@@ -22,9 +22,6 @@ Templates
 -------
 
 1. Load i18n
-
 {% load i18n %}
-
 2. Trans
-
 {% trans "Hello!" %}
