@@ -30,7 +30,5 @@ $ django-admin.py compilemessages
 Templates
 -------
 
-1. Load i18n
-{% load i18n %}
-2. Trans
-{% trans "Hello!" %}
+1. Load i18n Tag: {% load i18n %}
+2. Trans Tag: {% trans "Hello!" %}
