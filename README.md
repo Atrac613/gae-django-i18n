@@ -1,6 +1,8 @@
 GAE Django I18N Sample Code
 =============
 
+GAE SDK for Python version: 1.5.4
+
 django version: 0.96
 
 If mac user
